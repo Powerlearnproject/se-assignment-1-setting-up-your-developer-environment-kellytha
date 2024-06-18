@@ -1,0 +1,37 @@
+Step 1: Download MySQL
+Go to the MySQL Website:
+
+Open your web browser and navigate to the MySQL official website.
+Download MySQL Installer:
+
+Click on the "Downloads" tab at the top of the page.
+Under "MySQL Community (GPL) Downloads," click on "MySQL Community Server."
+Select your operating system from the dropdown menu.
+Click on the "Go to Download Page" button for the MySQL installer.
+On the download page, select the appropriate installer package for your system. For Windows, it's typically the MSI installer. Click "Download."
+Step 2: Install MySQL on Windows
+Run the Installer:
+
+Locate the downloaded file (usually in your Downloads folder) named something like mysql-installer-community-x.x.x.x.msi.
+Double-click the installer to run it.
+Choose Setup Type:
+
+In the MySQL Installer window, choose the setup type that best matches your needs. For most users, the "Developer Default" option is recommended. Click "Next."
+Check Requirements:
+
+The installer will check for any missing requirements. If all requirements are met, click "Next."
+Installation:
+
+Click "Execute" to start the installation of the MySQL server and other selected products. Follow the prompts to complete the installation.
+Product Configuration:
+
+Once the installation is complete, you will need to configure the MySQL server. Click "Next" to start the configuration process.
+Choose the configuration type (e.g., "Standalone MySQL Server").
+Set the MySQL root password and optionally create other user accounts.
+Configure the MySQL server as a Windows service (recommended).
+Click "Finish" to complete the configuration.
+Verify Installation:
+
+Open Command Prompt (press Win+R, type cmd, and hit Enter).
+Type mysql -u root -p and press Enter.
+Enter the root password you set during configuration to access the MySQL command line.

@@ -1,0 +1,27 @@
+Step 1: Download Python
+Go to the Python Website:
+
+Open your web browser and navigate to the Python official website.
+Download the Installer:
+
+Click on the "Downloads" tab.
+The website should automatically detect your operating system (Windows, macOS, Linux).
+Click the "Download Python x.x.x" button (the latest version number will be displayed).
+Step 2: Install Python on Windows
+Run the Installer:
+
+Locate the downloaded file (usually in your Downloads folder) named something like python-x.x.x.exe.
+Double-click the installer to run it.
+Customize Installation (Optional):
+
+On the first screen, check the box that says "Add Python x.x to PATH".
+Click "Customize installation" if you want to choose optional features or install location, otherwise, click "Install Now".
+Install Python:
+
+Follow the installer prompts. This includes choosing optional features (like pip and IDLE) and specifying the installation directory.
+Wait for the installation to complete.
+Verify the Installation:
+
+Open Command Prompt (press Win+R, type cmd, and hit Enter).
+Type python --version and press Enter to check the Python version.
+Type pip --version to check if pip (Python package installer) is installed correctly.
