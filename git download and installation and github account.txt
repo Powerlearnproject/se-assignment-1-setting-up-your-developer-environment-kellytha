@@ -1,0 +1,45 @@
+Step 1: Download and Install Git
+On Windows
+Go to the Git Website:
+
+Open your web browser and navigate to the Git official website.
+Download Git for Windows:
+
+On the homepage, click the "Download" button for Windows.
+Run the Installer:
+
+Once the download is complete, locate the installer (Git-{version}-64-bit.exe) in your Downloads folder and double-click it to run the setup.
+Setup Wizard:
+
+Follow the setup wizard prompts:
+Select Destination Location: Choose the installation location or accept the default.
+Select Components: Keep the default options unless you have specific needs.
+Adjusting your PATH environment: Choose the recommended option "Git from the command line and also from 3rd-party software."
+Choosing the SSH executable: Use the bundled OpenSSH.
+Configuring the line ending conversions: Choose "Checkout Windows-style, commit Unix-style line endings."
+Configuring the terminal emulator: Use the default "Use MinTTY."
+Extra options: Keep the default options.
+Complete Installation:
+
+Click "Install" and wait for the installation to complete.
+Optionally, check "Launch Git Bash" and click "Finish."
+
+Step 2: Create a GitHub Account
+Go to the GitHub Website:
+
+Open your web browser and navigate to the GitHub website.
+Sign Up for GitHub:
+
+Click on the "Sign up" button.
+Create an Account:
+
+Username: Choose a unique username.
+Email Address: Enter your email address.
+Password: Create a strong password.
+Verify Your Account: Complete the CAPTCHA verification.
+Choose a Plan:
+
+Select a plan (free or paid). The free plan is usually sufficient for most users.
+Complete Setup:
+
+Follow any additional prompts to complete the account setup, such as selecting your interests.

@@ -1,0 +1,21 @@
+Step 1: Download the Windows 11 Installation Assistant
+Go to the Microsoft Windows 11 download page.
+Under the "Windows 11 Installation Assistant" section, click on the "Download now" button.
+Step 2: Run the Windows 11 Installation Assistant
+Open the downloaded file (Windows11InstallationAssistant.exe).
+Follow the on-screen instructions to check your PC’s compatibility.
+Once compatibility is confirmed, the assistant will guide you through the process of downloading and installing Windows 11.
+Step 3: Accept License Terms
+Read and accept the license terms by clicking "Accept and Install".
+
+Step 4: Installation Process
+The installation assistant will download Windows 11 files. This might take some time depending on your internet speed.
+Once the download is complete, it will begin preparing the installation.
+After preparation, it will prompt you to restart your PC. Click on the "Restart now" button.
+Step 5: Post-Restart Installation
+Your PC will restart several times during the installation process.
+Follow the on-screen instructions to complete the setup. This includes settings like region, keyboard layout, and connecting to a network.
+Log in with your Microsoft account or create a new one if prompted.
+Step 6: Complete Setup
+After logging in, follow any additional setup steps.
+Your desktop will appear, and Windows 11 will be installed.
